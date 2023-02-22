@@ -1,4 +1,0 @@
-- [ ] alias
-- [ ] .svg
-- [ ] Next
-- [ ] Jest
